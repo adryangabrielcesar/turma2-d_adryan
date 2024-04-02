@@ -23,3 +23,14 @@ h4 {color: cyan;
 h4 {border-color: darkorchid;
     border-style: groove;
     border-width: 6px;}
+
+h5 {font-size: 150%;
+}
+
+h5 {text-align: center;
+}
+
+h5 {margin-left: 70%;
+}
+
+h5 {padding-right: 40%;}
