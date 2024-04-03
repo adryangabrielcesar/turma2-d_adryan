@@ -10,7 +10,7 @@ h3 {color: deeppink;
 h1 {text-align: center;
 }
 
-h2 {text-align: right;
+h2 {text-align: center;
 }
 
 h3 {border-color: rgb(178, 178, 255);
@@ -64,7 +64,7 @@ h5 {margin-left: 70%;
 h5 {padding-right: 40%;
 }
 
-.parte01 {background-color: orange;
+#parte01 {background-color: orange;
 }
-.parte02 {background-color: turquoise;
+#parte02 {background-color: turquoise;
 }
